@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FamilyMap</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_firstName">First Name</string>
+    <string name="prompt_lastName">Last Name</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_serverhost">Server Host</string>
+    <string name="prompt_serverport">Server Port</string>
+    <string name="radio_male">Male</string>
+    <string name="radio_female">Female</string>
+    <string name="localhostDefault">10.0.2.2</string>
+    <string name="defaultPort">8080</string>
+    <string name="login_success">Login Succeeded for: </string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="register_success">Registration Success for: </string>
+    <string name="register_failed">Failed to Register</string>
+</resources>
